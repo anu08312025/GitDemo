@@ -1,4 +1,4 @@
 # GitDemo
 This is my first Git Repository
 <br>
-Author- Anusha Garimella
+Author- Anusha Kilaru 
